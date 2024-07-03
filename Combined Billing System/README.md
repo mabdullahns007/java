@@ -1,9 +1,9 @@
 ## Combined Billing System
 
-Description
+** Description **
 The Combined Billing System is a Java application designed to generate bills for water, gas, electricity and telecommunication. The system creates billing files that include detailed information about the customer's usage and corresponding charges.
 
-File Contents
+** File Contents **
 Each billing file contains the following information:
 
 cid: Customer ID
@@ -19,9 +19,9 @@ GasBill: Gas Bill Amount
 WaterBill: Water Bill Amount
 PhoneBill: Phone Bill Amount
 
-Getting Started
+** Getting Started **
 
-Prerequisites
+** Prerequisites **
 Java Development Kit (JDK) installed on your machine.
 An Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse.
 
