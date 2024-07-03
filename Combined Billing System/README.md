@@ -1,4 +1,4 @@
-Combined Billing System
+## Combined Billing System
 
 Description
 The Combined Billing System is a Java application designed to generate bills for water, gas, electricity and telecommunication. The system creates billing files that include detailed information about the customer's usage and corresponding charges.
