@@ -1,4 +1,4 @@
-#Java Projects Repository
+###Java Projects Repository
 
 This repository includes two of my Java projects: 
 Multi-Mode Multi-Typed Calculator and the Combined Billing System. Each project is designed to demonstrate various functionalities and features using Java programming.
